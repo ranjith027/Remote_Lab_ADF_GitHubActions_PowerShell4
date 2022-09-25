@@ -1,0 +1,11 @@
+{
+	"name": "LS_Lab_AzureKeyVault",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://rankeylab.vault.azure.net/"
+		}
+	}
+}
